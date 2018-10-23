@@ -1,2 +1,2 @@
 # codeapp
-ionic netflix clone
+ionic netflix clone ionic3
